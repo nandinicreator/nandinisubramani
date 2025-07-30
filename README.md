@@ -1,75 +1,37 @@
-<!DOCTYPE html>
-<!DOCTYPE html>
-<html lang="en">
+<h1 align="center">Hi 👋, I'm NANDINI
+<h3 align="center"> Data Analyst | Power BI Developer | Learning Tableau & Generative AI</h3>
 
-<head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <link rel="stylesheet" href="styles.css" />
-    <title>Document</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
-</head>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1223066/screenshots/10400900/media/9cfd8e7fa251dd9edee9853b08a6bdb3.gif" width="300"/>
+</p>
 
-<body>
-    <!-- header section starts  -->
+---
 
-    <header>
-        <section class="nav">
-            <!-- We can also insert any logo here     -->
+- 🔭 I’m currently working on **Interactive Dashboards using Power BI**
+- 🌱 Learning **Tableau, Generative AI, and Data Storytelling**
+- 📊 Passionate about **Turning data into actionable insights**
+- 👩‍💻 Open to roles in **Data Analytics | BI Development**
+- 📫 Reach me at: **[nandinicreator@outlook.com]**
+- 🌸 Fun fact: I find beauty in datasets and dashboards!
 
-            <!-- We can also insert any logo here     -->
-            <div class="logo">
-                <a href="#"><i class="fas fa-utensils"></i>food</a>
-            </div>
+---
 
-            <!--  checkbox to control the icon's state    -->
-            <input id="menu-toggle" type="checkbox" />
-            <label class="menu-button-container" for="menu-toggle">
-          <div class="menu-button"></div>
-        </label>
-            <!--  main menu    -->
-            <ul class="menu">
-                <li><a href="#home">Home</a></li>
-                <li><a href="#speciality">About</a></li>
-                <li><a href="#popular">Popular</a></li>
-                <li><a href="#review">Contact</a></li>
-                <li><a href="#order" class="order">Menu</a></li>
-            </ul>
-        </section>
-    </header>
+### 👩‍💻 Tools & Technologies:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/ms-excel.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40"/>
+</p>
 
-    <!-- header section ends -->
+---
 
-    <!-- hero section starts  -->
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nandinicreator)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nandinicreator@outlook.com)
 
-    <section class="home" id="home ">
-        <div class="content">
-            <!-- Tagline -->
-            <h3 class="mainfont">
-                The Ch<span class="yellowColor">ee</span>se Decker
-            </h3>
-            <h3>
-                fastest f<span class="yellowColor">oo</span>d for , instant
-                <span class="yellowColor">Hunger</span>
-            </h3>
-            <!--Description  -->
-            <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas accusamus tempore temporibus rem amet laudantium animi optio voluptatum. Natus obcaecati unde porro nostrum ipsam itaque impedit incidunt rem quisquam eos!
-            </p>
 
-            <!-- CTA -->
-            <a href="# " class="btn">ORDER NOW</a>
-        </div>
-        <!-- Hero image -->
-
-        <div class="image">
-            <img src="burger-img.png " alt=" " />
-        </div>
-    </section>
-
-    <!-- hero section ends   -->
-</body>
-
-</html>
